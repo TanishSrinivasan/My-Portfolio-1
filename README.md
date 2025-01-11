@@ -15,10 +15,10 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 ## Sections  
 1. **Home**: A brief introduction about me.  
 2. **About Me**: My background, education, and interests.  
-3. **Projects**: A gallery of my completed projects with descriptions and links to live demos or repositories.  
+3. **Projects**: Information about  my completed projects with descriptions.
 4. **Skills**: A list of technical and soft skills.  
 5. **Experience**: Details about my professional work and internships.  
-6. **Contact**: A form to connect with me via email.  
+6. **Contact**: Contains my email and links to my social accounts.  
 
 ## How to Use  
 1. Clone the repository:  
