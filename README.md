@@ -23,7 +23,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 ## How to Use  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/TanishSrinivasan/My-PORTFOLIO-1.git
+   git clone https://github.com/TanishSrinivasan/My-Portfolio-1.git
 
 2.Navigate to the project directory and open index.html in a web browser.
 
