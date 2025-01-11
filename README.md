@@ -36,7 +36,6 @@ Hi! I'm Tanish Srinivasan, a web developer and a tech enthusiast with a passion 
 
 I believe in the power of consistent learning and challenging myself to grow in the ever-evolving field of technology. From exploring the nuances of front-end development to diving deeper into full-stack solutions, my goal is to build impactful projects that leave a lasting impression.
 
-This Netflix Clone project is more than just a practice exercise; it's a reflection of my dedication to creating aesthetically pleasing designs and improving my problem-solving capabilities.
 
 When I'm not coding, you’ll likely find me indulging in photography, playing cricket, or discovering new music. Feel free to connect with me if you have any feedback, suggestions, or just want to chat about tech and creativity!
 
